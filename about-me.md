@@ -1,5 +1,9 @@
 # About me - Alec Burch-DeWitt 
 
+Computer Science Major
+- Concentration in Data Analytics and Machine Learning
+- Minor in Mathematics
+
 ## Programming languages
  - I am most familiar with Python and Java
  - I have used Bash, C, MySQL, JavaScript, Lua, and Dart academically or for small projects
